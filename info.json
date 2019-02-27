@@ -1,0 +1,11 @@
+{
+    "name": "Jitemans-packing",
+    "version": "1.0.0",
+    "title": "Jiteman's packing",
+    "author": "Jiteman [@gmail.com]",
+    "contact": "",
+    "homepage": "",
+    "factorio_version": "0.16",
+    "dependencies": [ "base" ],
+    "description": "Various item and barreled fluid packs"
+}
