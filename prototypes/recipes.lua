@@ -213,8 +213,8 @@ data:extend( {
 	generate_universal_pallet_packing_recipe_for_stack_packed( "advanced-circuit" ),
 	generate_universal_pallet_unpacking_recipe_for_stack_packed( "advanced-circuit" ),
 	
-	generate_stack_packing_40_recipe_for( "processing-unit" ),
-	generate_stack_unpacking_40_recipe_for( "processing-unit" ),
+	generate_stack_packing_20_recipe_for( "processing-unit" ),
+	generate_stack_unpacking_20_recipe_for( "processing-unit" ),
 	generate_universal_pallet_packing_recipe_for_stack_packed( "processing-unit" ),
 	generate_universal_pallet_unpacking_recipe_for_stack_packed( "processing-unit" )
 } )
